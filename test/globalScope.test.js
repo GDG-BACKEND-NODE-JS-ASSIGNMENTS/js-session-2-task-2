@@ -1,4 +1,4 @@
-const { globalVar } = require("../index");
+const { globalVar } = require("../Assignment/index");
 
 describe("Global Scope Variable", () => {
     test("should be defined in global scope", () => {
